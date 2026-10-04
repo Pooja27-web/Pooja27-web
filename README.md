@@ -21,7 +21,7 @@
 ### ✉️ a note for today
 
 <!--START_SECTION:quote-->
-> ✉️ *every dataset has a love letter hiding in it.*
+> ✉️ *dear data, tell me what you're hiding.*
 <!--END_SECTION:quote-->
 
 </div>
@@ -57,6 +57,22 @@ I'm Pooja, a third-year **BCA Data Science** student at Alliance University, Ban
 <sub>these cards update on their own whenever I push to a project 🌷</sub>
 
 <!--START_SECTION:projects-->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Pooja27-web/GigSetu"><img src="assets/cards/gigsetu.svg" width="100%" alt="GigSetu"/></a>
+<br/>
+<a href="https://github.com/Pooja27-web/Electric-Vehicle-Population-Data--Power-BI-"><img src="assets/cards/electric-vehicle-population-data-power-bi.svg" width="100%" alt="EV Population Data"/></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Pooja27-web/Retail-Data-Analysis"><img src="assets/cards/retail-data-analysis.svg" width="100%" alt="Retail Data Analysis"/></a>
+<br/>
+<a href="https://github.com/Pooja27-web/Warlens-Project"><img src="assets/cards/warlens-project.svg" width="100%" alt="WarLens"/></a>
+<br/>
+<a href="https://github.com/Pooja27-web/CampusCart-FSD"><img src="assets/cards/campuscart-fsd.svg" width="100%" alt="CampusCart"/></a>
+</td>
+</tr>
+</table>
 <!--END_SECTION:projects-->
 
 <br/>
@@ -64,6 +80,11 @@ I'm Pooja, a third-year **BCA Data Science** student at Alliance University, Ban
 ## 📓 recent diary entries
 
 <!--START_SECTION:activity-->
+- 🌸 pushed to [**HackerRank-Codes**](https://github.com/Pooja27-web/HackerRank-Codes) · just now
+- 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · 17h ago
+- 🌸 pushed to [**Warlens-Project**](https://github.com/Pooja27-web/Warlens-Project) · 3d ago
+- 🌸 pushed to [**LeetCodes**](https://github.com/Pooja27-web/LeetCodes) · 4d ago
+- 🌸 pushed to [**Simple-Neural-Network-Forward-Propagation**](https://github.com/Pooja27-web/Simple-Neural-Network-Forward-Propagation) · 10d ago
 <!--END_SECTION:activity-->
 
 <br/>
@@ -95,7 +116,7 @@ I'm Pooja, a third-year **BCA Data Science** student at Alliance University, Ban
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced soon</sub>
+<sub>last synced 04 Oct 2026, 10:29 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
