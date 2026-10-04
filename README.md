@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C6CC,50:E6DDF2,100:CFE3D0&height=230&section=header&text=Poojashree&fontSize=64&fontColor=6B4A5A&fontAlignY=38&animation=fadeIn&desc=dear%20data%2C%20let%20me%20tell%20your%20story%20%E2%9C%89%EF%B8%8F&descSize=19&descColor=8E6B86&descAlignY=60" width="100%" />
+<img src="assets/hero.svg" width="100%" alt="Poojashree, dear data, let me tell your story" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&pause=1400&color=B07A94&center=true&vCenter=true&width=560&lines=writing+love+letters+to+messy+datasets+%E2%9C%89%EF%B8%8F;BCA+Data+Science+%C2%B7+Alliance+University;chai%2C+notes+%26+dashboards+%E2%98%95;aspiring+data+analyst+%F0%9F%93%8A" alt="typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&pause=1400&color=B07A94&center=true&vCenter=true&width=560&lines=writing+love+letters+to+messy+datasets+%E2%9C%89%EF%B8%8F;chai%2C+notes+%26+dashboards+%E2%98%95;turning+rows+into+stories+%F0%9F%93%8A;open+to+data+analyst+opportunities+%F0%9F%8C%B7" alt="typing tagline" />
 
 <br/><br/>
 
@@ -12,17 +12,15 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-ph089683-FBEBCB?style=for-the-badge&logo=hackerrank&logoColor=6B4A5A)](https://hackerrank.com/profile/ph089683)
 [![LeetCode](https://img.shields.io/badge/LeetCode-JAPOO__WEB__CODE-DCEAF2?style=for-the-badge&logo=leetcode&logoColor=6B4A5A)](https://leetcode.com/u/JAPOO_WEB_CODE)
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Pooja27-web&label=visitors&color=B07A94&labelColor=8E6B86&style=for-the-badge" alt="profile visitors" />
+
+<br/><br/>
+
+<img src="assets/skills.svg" width="100%" alt="skills" />
 
 <br/>
 
-<div align="center">
-
-### ✉️ a note for today
-
-<!--START_SECTION:quote-->
-> ✉️ *dear data, tell me what you're hiding.*
-<!--END_SECTION:quote-->
+<img src="assets/quote.svg" width="100%" alt="note for today" />
 
 </div>
 
@@ -32,81 +30,86 @@
 
 I'm Pooja, a third-year **BCA Data Science** student at Alliance University, Bangalore. I like quiet evenings, a cup of chai, and the moment a messy dataset finally turns into a chart that makes sense. 🌸
 
-📊 building data projects in **Power BI** and **Python** &nbsp;·&nbsp; 🌱 interned with **1M1B** (2025) &nbsp;·&nbsp; 🎯 looking for **data analyst** opportunities &nbsp;·&nbsp; 📚 tutoring for 3-4 years
+<sub>psst, these little dropdowns open when you click them 👇</sub>
 
+<details>
+<summary>🌷 <b>more about me</b></summary>
 <br/>
 
-## 🖋️ my stationery (toolkit)
+- 📊 building data projects in **Power BI** and **Python**
+- 🌱 interned with **1M1B** in 2025
+- 🎯 looking for **data analyst** internships and opportunities
+- 🍳 outside the code: cooking, journaling and morning walks
+
+</details>
+
+<details>
+<summary>🎓 <b>certificates</b></summary>
+<br/>
+
+Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **Amazon**, **MongoDB**, **University of Michigan** and **University of Illinois**.
+
+</details>
+
+<details>
+<summary>📚 <b>tutoring corner</b></summary>
+<br/>
+
+3-4 years of teaching maths, science, social and English for **grades 1-12**, across **State, CBSE and ICSE** boards. One-on-one and groups, online and offline.
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🔭 right now
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-F4C6CC?style=for-the-badge&logo=python&logoColor=6B4A5A)
-![Pandas](https://img.shields.io/badge/Pandas-E6DDF2?style=for-the-badge&logo=pandas&logoColor=6B4A5A)
-![Power BI](https://img.shields.io/badge/Power_BI-FBEBCB?style=for-the-badge&logo=powerbi&logoColor=6B4A5A)
-![Jupyter](https://img.shields.io/badge/Jupyter-CFE3D0?style=for-the-badge&logo=jupyter&logoColor=6B4A5A)
-![Java](https://img.shields.io/badge/Java-DCEAF2?style=for-the-badge&logo=openjdk&logoColor=6B4A5A)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5DCCB?style=for-the-badge&logo=javascript&logoColor=6B4A5A)
-![Git](https://img.shields.io/badge/Git-F4C6CC?style=for-the-badge&logo=git&logoColor=6B4A5A)
+<img src="assets/now.svg" width="100%" alt="currently working on" />
+
+<br/><br/>
+
+<img src="assets/timeline.svg" width="100%" alt="my journey" />
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📌 my moodboard
 
-<sub>these cards update on their own whenever I push to a project 🌷</sub>
+<sub>these cards update on their own whenever I push to a project 🌷 click one to open it</sub>
 
 <!--START_SECTION:projects-->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Pooja27-web/GigSetu"><img src="assets/cards/gigsetu.svg" width="100%" alt="GigSetu"/></a>
-<br/>
-<a href="https://github.com/Pooja27-web/Electric-Vehicle-Population-Data--Power-BI-"><img src="assets/cards/electric-vehicle-population-data-power-bi.svg" width="100%" alt="EV Population Data"/></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Pooja27-web/Retail-Data-Analysis"><img src="assets/cards/retail-data-analysis.svg" width="100%" alt="Retail Data Analysis"/></a>
-<br/>
-<a href="https://github.com/Pooja27-web/Warlens-Project"><img src="assets/cards/warlens-project.svg" width="100%" alt="WarLens"/></a>
-<br/>
-<a href="https://github.com/Pooja27-web/CampusCart-FSD"><img src="assets/cards/campuscart-fsd.svg" width="100%" alt="CampusCart"/></a>
-</td>
-</tr>
-</table>
 <!--END_SECTION:projects-->
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📓 recent diary entries
 
 <!--START_SECTION:activity-->
-- 🌸 pushed to [**HackerRank-Codes**](https://github.com/Pooja27-web/HackerRank-Codes) · just now
-- 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · 17h ago
-- 🌸 pushed to [**Warlens-Project**](https://github.com/Pooja27-web/Warlens-Project) · 3d ago
-- 🌸 pushed to [**LeetCodes**](https://github.com/Pooja27-web/LeetCodes) · 4d ago
-- 🌸 pushed to [**Simple-Neural-Network-Forward-Propagation**](https://github.com/Pooja27-web/Simple-Neural-Network-Forward-Propagation) · 10d ago
 <!--END_SECTION:activity-->
 
-<br/>
-
-## 🌿 my commit garden
-
-<div align="center">
-
-<picture>
-  <img src="https://raw.githubusercontent.com/Pooja27-web/Pooja27-web/output/snake.svg" alt="contribution snake" width="100%" />
-</picture>
-
-</div>
-
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## ☁️ the numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pooja27-web&show_icons=true&hide_border=true&bg_color=FFF8F3&title_color=B07A94&text_color=6B4A5A&icon_color=E7A9B8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja27-web&layout=compact&hide_border=true&bg_color=FFF8F3&title_color=B07A94&text_color=6B4A5A" />
+<img src="assets/stats.svg" width="100%" alt="github stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pooja27-web&bg_color=FFF8F3&color=B07A94&line=E8A0B0&point=B84A6A&area=true&area_color=F4C6CC&hide_border=true&radius=16" width="100%" alt="activity graph" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🌿 my commit garden
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Pooja27-web/Pooja27-web/output/snake.svg" alt="contribution snake" width="100%" />
 
 </div>
 
@@ -116,7 +119,7 @@ I'm Pooja, a third-year **BCA Data Science** student at Alliance University, Ban
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 04 Oct 2026, 10:29 UTC</sub>
+<sub>last synced soon</sub>
 <!--END_SECTION:updated-->
 
 </div>
