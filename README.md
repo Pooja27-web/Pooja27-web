@@ -1,174 +1,104 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pooja27-web/Pooja27-web/main/assets/header.jpg" alt="Sketchbook Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,50:E8D5F2,100:CDE7F0&height=220&section=header&text=Poojashree&fontSize=62&fontColor=5B4B6B&fontAlignY=38&desc=turning%20messy%20data%20into%20pretty%20stories%20%F0%9F%8C%B8&descSize=18&descColor=8E6BA8&descAlignY=60" width="100%" />
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=8E6BA8&center=true&vCenter=true&width=520&lines=BCA+Data+Science+%40+Alliance+University;Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%C2%B7+Power+BI+%C2%B7+Storytelling+with+data" alt="typing tagline" />
 
-# 🎨 Sketchbook // Poojashree H
-┌──────────────────────────────────────────────────────────────────┐
-  │  "Drafting data insights & weaving full-stack logic, one sketch  │
-  │   at a time." ✏️📊                                               │
-  └──────────────────────────────────────────────────────────────────┘
-  
-<p align="center">
-  <b>Student @ Alliance University</b> • <b>Software Developer</b> • <b>Data Science Enthusiast</b>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/Pooja27-web"><img src="https://img.shields.io/badge/GitHub-Pooja27--web-EED9C4?style=for-the-badge&logo=github&logoColor=5D4037" /></a>
-  <a href="https://linkedin.com/in/poojashree-h"><img src="https://img.shields.io/badge/LinkedIn-Poojashree_H-D8C4B6?style=for-the-badge&logo=linkedin&logoColor=4A3728" /></a>
-  <a href="mailto:poojashree.h@example.com"><img src="https://img.shields.io/badge/Email-Connect-F3E9DD?style=for-the-badge&logo=gmail&logoColor=6D4C41" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Pinterest_Board-FADADD?style=for-the-badge&logo=pinterest&logoColor=5B4B6B)](https://pinterest-portfolio-lk6kjdw3s-pooja-0bcc.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poojashree-E8D5F2?style=for-the-badge&logo=linkedin&logoColor=5B4B6B)](https://linkedin.com/in/poojashree-harish-kumar)
+[![Email](https://img.shields.io/badge/Email-Say_hi-D4ECDD?style=for-the-badge&logo=microsoftoutlook&logoColor=5B4B6B)](mailto:Poojashreeharishkumar@outlook.com)
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Pooja27-web/Pooja27-web/main/assets/divider.jpg" width="100%" alt="Sketch Divider" />
+## 🌷 hey, I'm Pooja
+
+third-year **BCA Data Science** student at Alliance University, Bangalore 🌸 I love turning raw datasets into dashboards and insights people actually enjoy looking at.
+
+- 📊 building data projects in **Power BI** and **Python**
+- 🌱 interned with **1M1B** (2025)
+- 🎯 looking for **data analyst** internships and opportunities
+- 💬 ask me about dashboards, Python, or maths (I've been tutoring for 3-4 years!)
 
 <br/>
 
-## 📐 The Canvas Layout
+## 🎀 my toolkit
 
-<table align="center" width="100%">
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-FADADD?style=for-the-badge&logo=python&logoColor=5B4B6B)
+![Pandas](https://img.shields.io/badge/Pandas-E8D5F2?style=for-the-badge&logo=pandas&logoColor=5B4B6B)
+![Power BI](https://img.shields.io/badge/Power_BI-FFF1D6?style=for-the-badge&logo=powerbi&logoColor=5B4B6B)
+![Jupyter](https://img.shields.io/badge/Jupyter-D4ECDD?style=for-the-badge&logo=jupyter&logoColor=5B4B6B)
+![Java](https://img.shields.io/badge/Java-CDE7F0?style=for-the-badge&logo=openjdk&logoColor=5B4B6B)
+![JavaScript](https://img.shields.io/badge/JavaScript-FADADD?style=for-the-badge&logo=javascript&logoColor=5B4B6B)
+![Git](https://img.shields.io/badge/Git-E8D5F2?style=for-the-badge&logo=git&logoColor=5B4B6B)
+
+</div>
+
+<br/>
+
+## 📌 my moodboard (major projects)
+
+<table>
   <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">📜 [ Drafted Bio ]</h4>
-      <p align="justify">
-        Hello! I'm <b>Poojashree H</b>, a student at <b>Alliance University</b>. I combine software development discipline with creative curiosity, turning complex algorithms and raw datasets into structured, elegant solutions.
-      </p>
+    <td width="50%" bgcolor="#FADADD" valign="top">
+      <h3>📊 Retail Data Analysis</h3>
+      <p>Analysis of retail data to uncover sales patterns and business insights.</p>
+      <sub><b>Data Analysis</b></sub><br/>
+      <a href="https://github.com/Pooja27-web/Retail-Data-Analysis">view →</a>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🎯 [ Studio Focus ]</h4>
-      <p align="justify">
-        My technical exploration spans <b>Software Engineering</b>, <b>Full-Stack Development</b>, <b>Data Science</b>, and <b>Python Automation</b>. I enjoy building modular applications and mining data for actionable insights.
-      </p>
+    <td width="50%" bgcolor="#E8D5F2" valign="top">
+      <h3>⚡ Electric Vehicle Population Data</h3>
+      <p>Power BI dashboard exploring EV population data through clear visuals.</p>
+      <sub><b>Power BI · Data Viz</b></sub><br/>
+      <a href="https://github.com/Pooja27-web/Electric-Vehicle-Population-Data--Power-BI-">view →</a>
     </td>
-    <td width="34%" valign="top">
-      <h4 align="center">🌐 [ Current Coordinates ]</h4>
-      <p align="justify">
-        Actively building real-world projects, solving algorithmic challenges, and open to <b>collaborations</b>, <b>internships</b>, and <b>open-source development</b>.
-      </p>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#D4ECDD" valign="top">
+      <h3>🤝 GigSetu</h3>
+      <p>Smart India Hackathon 2026 project (work in progress).</p>
+      <sub><b>SIH 2026</b></sub><br/>
+      <a href="YOUR-GIGSETU-REPO-LINK">view →</a>
+    </td>
+    <td width="50%" bgcolor="#CDE7F0" valign="top">
+      <h3>🔍 WarLens</h3>
+      <p>NLP project.</p>
+      <sub><b>NLP · Python</b></sub><br/>
+      <a href="YOUR-WARLENS-REPO-LINK">view →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#FFF1D6" valign="top">
+      <h3>🛒 CampusCart</h3>
+      <p>Full-stack campus marketplace for student buying and selling.</p>
+      <sub><b>JavaScript · HTML/CSS</b></sub><br/>
+      <a href="https://github.com/Pooja27-web/CampusCart-FSD">view →</a>
+    </td>
+    <td width="50%" bgcolor="#F3E5F5" valign="top">
+      <h3>🌸 more on my portfolio</h3>
+      <p>Screenshots, case studies and the rest of my work live on my Pinterest-style portfolio.</p>
+      <sub><b>Portfolio</b></sub><br/>
+      <a href="https://pinterest-portfolio-lk6kjdw3s-pooja-0bcc.vercel.app/">visit →</a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Pooja27-web/Pooja27-web/main/assets/divider.jpg" width="100%" alt="Sketch Divider" />
-
-<br/>
-
-## 📂 Pinterest Boards (Tech Stack)
+## ☁️ my stats
 
 <div align="center">
 
-### 📂 [ Board: Development Foundations ]
-<p>
-  <img src="https://img.shields.io/badge/Java-EED9C4?style=flat-square&logo=openjdk&logoColor=5D4037" />
-  <img src="https://img.shields.io/badge/Object--Oriented_Programming-D8C4B6?style=flat-square&logo=codefactor&logoColor=4A3728" />
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-C6D57E?style=flat-square&logo=geeksforgeeks&logoColor=3B4A21" />
-  <img src="https://img.shields.io/badge/Problem_Solving-F3E9DD?style=flat-square&logo=leetcode&logoColor=6D4C41" />
-</p>
-
-### 📂 [ Board: Data & Intelligence ]
-<p>
-  <img src="https://img.shields.io/badge/Python-FFF5EB?style=flat-square&logo=python&logoColor=604020" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebooks-F7E7CE?style=flat-square&logo=jupyter&logoColor=5B4B3A" />
-  <img src="https://img.shields.io/badge/Data_Science-E0ECE4?style=flat-square&logo=scikitlearn&logoColor=3A5A58" />
-  <img src="https://img.shields.io/badge/Data_Exploration-D8E3E7?style=flat-square&logo=pandas&logoColor=2F4F4F" />
-  <img src="https://img.shields.io/badge/Scripting_%26_Automation-E8F1F5?style=flat-square&logo=python&logoColor=2B5B6C" />
-</p>
-
-### 📂 [ Board: Web & Interface Canvas ]
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7E7CE?style=flat-square&logo=javascript&logoColor=5B4B3A" />
-  <img src="https://img.shields.io/badge/HTML5-FFE8E8?style=flat-square&logo=html5&logoColor=6A3B3B" />
-  <img src="https://img.shields.io/badge/CSS3-E2E0D8?style=flat-square&logo=css3&logoColor=3B4A5A" />
-  <img src="https://img.shields.io/badge/Frontend_Basics-F5F5F5?style=flat-square&logo=webcomponents&logoColor=222222" />
-</p>
-
-### 📂 [ Board: Studio Tools & Environment ]
-<p>
-  <img src="https://img.shields.io/badge/Git-F3E9DD?style=flat-square&logo=git&logoColor=6D4C41" />
-  <img src="https://img.shields.io/badge/GitHub-EED9C4?style=flat-square&logo=github&logoColor=5D4037" />
-  <img src="https://img.shields.io/badge/VS_Code-D8E3E7?style=flat-square&logo=visualstudiocode&logoColor=2F4F4F" />
-  <img src="https://img.shields.io/badge/HackerRank-C6D57E?style=flat-square&logo=hackerrank&logoColor=3B4A21" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pooja27-web&show_icons=true&hide_border=true&bg_color=FFF8F3&title_color=8E6BA8&text_color=5B4B6B&icon_color=E7A9B8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja27-web&layout=compact&hide_border=true&bg_color=FFF8F3&title_color=8E6BA8&text_color=5B4B6B" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDE7F0,50:E8D5F2,100:FADADD&height=120&section=footer" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Pooja27-web/Pooja27-web/main/assets/divider.jpg" width="100%" alt="Sketch Divider" />
-
-<br/>
-
-## 📌 Pinned Boards (Featured Repositories)
-
-| Board / Repository | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🛒 **`CampusCart-FSD`** | Full-Stack application for campus e-commerce & student transactions | JavaScript • HTML/CSS | [↗](https://github.com/Pooja27-web/CampusCart-FSD) |
-| 🧮 **`data-structures-algorithm-using-python`** | Jupyter Notebook implementations of DSA concepts | Python • Jupyter | [↗](https://github.com/Pooja27-web/data-structures-algorithm-using-python) |
-| 📊 **`INTRODUCTION-TO-DATA-SCIENCE`** | Data exploration, statistical analysis & visualization notebooks | Python • Data Science | [↗](https://github.com/Pooja27-web/INTRODUCTION-TO-DATA-SCIENCE) |
-| 🐍 **`Python-Hackerrank` & `Python-lab`** | Core Python scripting exercises & HackerRank challenge solutions | Python 3 | [↗](https://github.com/Pooja27-web/Python-Hackerrank) |
-| ☕ **`JAVA-LAB`** | Object-Oriented Programming lab assignments in Java | Java • OOP | [↗](https://github.com/Pooja27-web/JAVA-LAB) |
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Pooja27-web/Pooja27-web/main/assets/divider.jpg" width="100%" alt="Sketch Divider" />
-
-<br/>
-
-## ✏️ Recent Sketches (Current Focus)
-
-- 📐 **Algorithmic Mastery** — Refining data structure implementations & optimization in Python and Java
-- 🛒 **Full-Stack Expansion** — Scaling features & responsiveness in `CampusCart-FSD`
-- 📊 **Data Science Pipelines** — Exploring deeper analysis & statistical modeling in Jupyter
-- 🏆 **Competitive Practice** — Completing HackerRank problem sets and lab challenges
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Pooja27-web/Pooja27-web/main/assets/divider.jpg" width="100%" alt="Sketch Divider" />
-
-<br/>
-
-## 📊 Sketchbook Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pooja27-web&show_icons=true&theme=warm&hide_border=false&border_color=D8C4B6&bg_color=FFFDF9&title_color=6D4C41&text_color=5D4037&icon_color=A27B5C" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja27-web&layout=compact&theme=warm&hide_border=false&border_color=D8C4B6&bg_color=FFFDF9&title_color=6D4C41&text_color=5D4037" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pooja27-web&theme=warm&background=FFFDF9&border=D8C4B6&stroke=6D4C41&ring=A27B5C&fire=D97706&currStreakLabel=6D4C41" width="97%" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Pooja27-web/Pooja27-web/main/assets/divider.jpg" width="100%" alt="Sketch Divider" />
-
-<br/>
-
-## 📎 Pinned Connections
-
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/Pooja27-web"><img src="https://img.shields.io/badge/GitHub-Pooja27--web-EED9C4?style=for-the-badge&logo=github&logoColor=5D4037" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/poojashree-h"><img src="https://img.shields.io/badge/LinkedIn-Poojashree_H-D8C4B6?style=for-the-badge&logo=linkedin&logoColor=4A3728" /></a>
-  &nbsp;
-  <a href="mailto:poojashree.h@example.com"><img src="https://img.shields.io/badge/Email-Connect-F3E9DD?style=for-the-badge&logo=gmail&logoColor=6D4C41" /></a>
-</p>
-
-<br/>
-
----
-
-<sub>✍️ Curated & sketched by <b>Poojashree H</b> • Alliance University • Thanks for visiting! 🌸</sub>
-
-</div>
+<div align="center"><sub>made with 🌸 and way too much chai</sub></div>
