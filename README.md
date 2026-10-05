@@ -103,11 +103,11 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 ## 📓 recent diary entries
 
 <!--START_SECTION:activity-->
-- 🌸 pushed to [**HackerRank-Codes**](https://github.com/Pooja27-web/HackerRank-Codes) · 17h ago
+- 🌸 pushed to [**Employee-Attrition-Prediction-**](https://github.com/Pooja27-web/Employee-Attrition-Prediction-) · yesterday
+- 🌸 pushed to [**HackerRank-Codes**](https://github.com/Pooja27-web/HackerRank-Codes) · yesterday
 - 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · yesterday
-- 🌸 pushed to [**Warlens-Project**](https://github.com/Pooja27-web/Warlens-Project) · 3d ago
+- 🌸 pushed to [**Warlens-Project**](https://github.com/Pooja27-web/Warlens-Project) · 4d ago
 - 🌸 pushed to [**LeetCodes**](https://github.com/Pooja27-web/LeetCodes) · 5d ago
-- 🌸 pushed to [**Simple-Neural-Network-Forward-Propagation**](https://github.com/Pooja27-web/Simple-Neural-Network-Forward-Propagation) · 10d ago
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -140,7 +140,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 05 Oct 2026, 02:56 UTC</sub>
+<sub>last synced 05 Oct 2026, 12:57 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
