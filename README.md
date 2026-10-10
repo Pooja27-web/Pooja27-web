@@ -103,7 +103,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 ## 📓 recent diary entries
 
 <!--START_SECTION:activity-->
-- 🌸 pushed to [**Optimizer-Comparison-Using-a-Neural-Network**](https://github.com/Pooja27-web/Optimizer-Comparison-Using-a-Neural-Network) · yesterday
+- 🌸 pushed to [**Optimizer-Comparison-Using-a-Neural-Network**](https://github.com/Pooja27-web/Optimizer-Comparison-Using-a-Neural-Network) · 2d ago
 - 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · 2d ago
 - 🌸 pushed to [**HackerRank-Codes**](https://github.com/Pooja27-web/HackerRank-Codes) · 6d ago
 - 🌸 pushed to [**Employee-Attrition-Prediction-**](https://github.com/Pooja27-web/Employee-Attrition-Prediction-) · 6d ago
@@ -140,7 +140,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 10 Oct 2026, 11:33 UTC</sub>
+<sub>last synced 10 Oct 2026, 16:33 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
