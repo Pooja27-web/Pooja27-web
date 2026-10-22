@@ -105,7 +105,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 <!--START_SECTION:activity-->
 - 🌸 pushed to [**Overfitting-Underfitting**](https://github.com/Pooja27-web/Overfitting-Underfitting) · 5d ago
 - 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · 5d ago
-- 🌸 pushed to [**Optimizer-Comparison-Using-a-Neural-Network**](https://github.com/Pooja27-web/Optimizer-Comparison-Using-a-Neural-Network) · 13d ago
+- 🌸 pushed to [**Optimizer-Comparison-Using-a-Neural-Network**](https://github.com/Pooja27-web/Optimizer-Comparison-Using-a-Neural-Network) · 14d ago
 - 🌸 pushed to [**HackerRank-Codes**](https://github.com/Pooja27-web/HackerRank-Codes) · 18d ago
 - 🌸 pushed to [**Employee-Attrition-Prediction-**](https://github.com/Pooja27-web/Employee-Attrition-Prediction-) · 18d ago
 <!--END_SECTION:activity-->
@@ -140,7 +140,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 22 Oct 2026, 10:48 UTC</sub>
+<sub>last synced 22 Oct 2026, 16:15 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
