@@ -103,11 +103,11 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 ## 📓 recent diary entries
 
 <!--START_SECTION:activity-->
+- 🌸 pushed to [**CAPSTONE**](https://github.com/Pooja27-web/CAPSTONE) · 22h ago
 - 🌸 pushed to [**Overfitting-Underfitting**](https://github.com/Pooja27-web/Overfitting-Underfitting) · 6d ago
 - 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · 6d ago
 - 🌸 pushed to [**Optimizer-Comparison-Using-a-Neural-Network**](https://github.com/Pooja27-web/Optimizer-Comparison-Using-a-Neural-Network) · 15d ago
 - 🌸 pushed to [**HackerRank-Codes**](https://github.com/Pooja27-web/HackerRank-Codes) · 19d ago
-- 🌸 pushed to [**Employee-Attrition-Prediction-**](https://github.com/Pooja27-web/Employee-Attrition-Prediction-) · 19d ago
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -140,7 +140,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 23 Oct 2026, 20:46 UTC</sub>
+<sub>last synced 24 Oct 2026, 02:25 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
