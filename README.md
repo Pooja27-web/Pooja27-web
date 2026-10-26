@@ -103,8 +103,8 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 ## 📓 recent diary entries
 
 <!--START_SECTION:activity-->
-- 🌸 pushed to [**powerbi-sales-analysis**](https://github.com/Pooja27-web/powerbi-sales-analysis) · 4h ago
-- 🌸 pushed to [**CNN-Architecture-Comparison**](https://github.com/Pooja27-web/CNN-Architecture-Comparison) · 6h ago
+- 🌸 pushed to [**powerbi-sales-analysis**](https://github.com/Pooja27-web/powerbi-sales-analysis) · 10h ago
+- 🌸 pushed to [**CNN-Architecture-Comparison**](https://github.com/Pooja27-web/CNN-Architecture-Comparison) · 12h ago
 - 🌸 pushed to [**CAPSTONE**](https://github.com/Pooja27-web/CAPSTONE) · 2d ago
 - 🌸 pushed to [**Overfitting-Underfitting**](https://github.com/Pooja27-web/Overfitting-Underfitting) · 8d ago
 - 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · 8d ago
@@ -140,7 +140,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 25 Oct 2026, 20:07 UTC</sub>
+<sub>last synced 26 Oct 2026, 02:13 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
