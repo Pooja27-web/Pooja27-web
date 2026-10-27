@@ -107,7 +107,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 - 🌸 pushed to [**Convolution-and-Pooling**](https://github.com/Pooja27-web/Convolution-and-Pooling) · yesterday
 - 🌸 pushed to [**CNN-Architecture-Comparison**](https://github.com/Pooja27-web/CNN-Architecture-Comparison) · yesterday
 - 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · yesterday
-- 🌸 pushed to [**CAPSTONE**](https://github.com/Pooja27-web/CAPSTONE) · 3d ago
+- 🌸 pushed to [**CAPSTONE**](https://github.com/Pooja27-web/CAPSTONE) · 4d ago
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -140,7 +140,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 27 Oct 2026, 02:50 UTC</sub>
+<sub>last synced 27 Oct 2026, 11:14 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
