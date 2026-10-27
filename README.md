@@ -103,10 +103,10 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 ## 📓 recent diary entries
 
 <!--START_SECTION:activity-->
-- 🌸 pushed to [**powerbi-sales-analysis**](https://github.com/Pooja27-web/powerbi-sales-analysis) · yesterday
-- 🌸 pushed to [**Convolution-and-Pooling**](https://github.com/Pooja27-web/Convolution-and-Pooling) · yesterday
-- 🌸 pushed to [**CNN-Architecture-Comparison**](https://github.com/Pooja27-web/CNN-Architecture-Comparison) · yesterday
-- 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · yesterday
+- 🌸 pushed to [**powerbi-sales-analysis**](https://github.com/Pooja27-web/powerbi-sales-analysis) · 2d ago
+- 🌸 pushed to [**Convolution-and-Pooling**](https://github.com/Pooja27-web/Convolution-and-Pooling) · 2d ago
+- 🌸 pushed to [**CNN-Architecture-Comparison**](https://github.com/Pooja27-web/CNN-Architecture-Comparison) · 2d ago
+- 🌸 pushed to [**Deep-Learning**](https://github.com/Pooja27-web/Deep-Learning) · 2d ago
 - 🌸 pushed to [**CAPSTONE**](https://github.com/Pooja27-web/CAPSTONE) · 4d ago
 <!--END_SECTION:activity-->
 
@@ -140,7 +140,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 27 Oct 2026, 11:14 UTC</sub>
+<sub>last synced 27 Oct 2026, 16:59 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
