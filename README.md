@@ -140,7 +140,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 27 Oct 2026, 21:35 UTC</sub>
+<sub>last synced 28 Oct 2026, 02:57 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
