@@ -103,11 +103,11 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 ## 📓 recent diary entries
 
 <!--START_SECTION:activity-->
-- 🌸 pushed to [**Power-BI-Customer-Sales-Analysis**](https://github.com/Pooja27-web/Power-BI-Customer-Sales-Analysis) · 3d ago
-- 🌸 pushed to [**power-bi-sorting-filtering-analysis**](https://github.com/Pooja27-web/power-bi-sorting-filtering-analysis) · 4d ago
+- 🌸 pushed to [**DATADUO**](https://github.com/Pooja27-web/DATADUO) · yesterday
+- 🌸 pushed to [**Power-BI-Customer-Sales-Analysis**](https://github.com/Pooja27-web/Power-BI-Customer-Sales-Analysis) · 4d ago
+- 🌸 pushed to [**power-bi-sorting-filtering-analysis**](https://github.com/Pooja27-web/power-bi-sorting-filtering-analysis) · 5d ago
 - 🌸 pushed to [**powerbi-sales-analysis**](https://github.com/Pooja27-web/powerbi-sales-analysis) · 7d ago
-- 🌸 pushed to [**Convolution-and-Pooling**](https://github.com/Pooja27-web/Convolution-and-Pooling) · 7d ago
-- 🌸 pushed to [**CNN-Architecture-Comparison**](https://github.com/Pooja27-web/CNN-Architecture-Comparison) · 7d ago
+- 🌸 pushed to [**Convolution-and-Pooling**](https://github.com/Pooja27-web/Convolution-and-Pooling) · 8d ago
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -140,7 +140,7 @@ Learning from **Meta**, **IBM**, **Salesforce / AICTE**, **DeepLearning.AI**, **
 
 <sub>made with 🌸, chai and a lot of late-night notes</sub><br/>
 <!--START_SECTION:updated-->
-<sub>last synced 02 Nov 2026, 03:16 UTC</sub>
+<sub>last synced 02 Nov 2026, 14:07 UTC</sub>
 <!--END_SECTION:updated-->
 
 </div>
